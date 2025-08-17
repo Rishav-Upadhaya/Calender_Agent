@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+/calender_agent.py
+/google_credentials.json
+/merolagani.py
+/main.py
+/tokens/token.json
+src/agents
+src/graph.ipynb
+/images
+/mcp_config
+/__init__.py
+/README.md
