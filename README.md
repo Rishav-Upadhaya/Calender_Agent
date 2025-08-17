@@ -1,4 +1,4 @@
-# Agent_Share
+# Calender_Agent (Agent_Share)
 
 Agent_Share automates the addition of IPO events to your Google Calendar, including reminders for each event.
 
@@ -38,7 +38,7 @@ Agent_Share automates the addition of IPO events to your Google Calendar, includ
 ## Project Structure
 
 ```
-Agent_Share/
+Calender_Agent/
 ├── src/
 │   └── main.py
 ├── requirements.txt
@@ -50,8 +50,8 @@ Agent_Share/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Rishav-Upadhaya/Agent_Share.git
-   cd Agent_Share
+   git clone https://github.com/Rishav-Upadhaya/Calender_Agent.git
+   cd Calender_Agent
    ```
 
 2. **Initialize environment and install dependencies:**
